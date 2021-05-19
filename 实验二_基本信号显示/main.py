@@ -18,3 +18,4 @@ plt.title(u"测试2")  # 注意：在前面加一个u
 plt.title(r'$f(x)=sin(\omega x), \omega = \frac{3}{8} \pi$')  # 图片标题
 plt.plot(x, y1)  # 绘制图像
 plt.show()  # 展示图片
+
